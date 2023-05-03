@@ -1,0 +1,12 @@
+Alphabetical Order for Strings: 
+The socialist countries are:
+Denamrk
+Norway
+The democratic countries are:
+Canada
+Mexico
+USA
+The authoritarian countries are:
+China
+North Korea
+Russia
